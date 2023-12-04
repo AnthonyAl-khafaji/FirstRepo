@@ -1,2 +1,6 @@
-# FirstRepo
-git hub repo
+MyFirstRepo
+===========
+
+My First Git Hub Repository
+
+Hello From My PC!
